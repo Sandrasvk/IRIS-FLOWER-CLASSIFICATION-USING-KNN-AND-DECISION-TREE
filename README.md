@@ -32,4 +32,4 @@ For this project, I opted for manual parameter testing instead of automated Grid
 
 ## 🚀 Tech Stack
 * *Language:* Python
-* *Libraries:* Scikit-Learn, Pandas, Matplotlib, Seaborn
+* *Libraries:* Scikit-Learn, Pandas, Numpy Matplotlib, Seaborn
